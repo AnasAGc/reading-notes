@@ -11,7 +11,7 @@ it’s a way of thinking that you have the fundamental thinking ability to be su
 ![MINDSET](https://380342-1192392-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2018/02/o-que-e-mindset-696x397.png)
 
 
- ## About Me 
+ ### About Me 
   
 I AM an ambitious and highly motivated Civil Engineer with strong practical and technical skills.I have a passion in coding and computer stuff so I start learning it.
  feel free to contact me for anything , Im happy to help 😃
