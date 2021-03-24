@@ -1,10 +1,35 @@
+## Website audience 
 
-# Version Control  
-Its a system record files changes and keep it accessible so we can look and comber new version of project with old ones .
+* Every website should be designed for the target audience—not just for yourself or the site owner. It is therefore very important to understand who your target audience is.
 
-## There are three types of version control :
- Local Version Control : like hard disks that save changes of files .
-Centralized Version Control : its used when team work with group on project  everyone which has access privilege (write and read ) to project  can look and do changes .
+* Your content and design shouldbe influenced by the goals ofyour users.
 
-Distributed Version Control :Its more like use both  above ways because it allows clients to create mirrored repositories and save it on the same time on central server , this protect data from last if the central server get damaged or data last .
+*  To help determine why peopleare coming to your website, there are two basic categories of questions you can ask
+
+
+
+1- The first attempts to discover the underlying motivations for why visitors come to the site?
+
+2- The second examines the specific goals of the visitors. These are the triggers making them come to the site now.
+
+
+# How to start Bulid A WebSite ?
+ 1- You should now who are they the target audiunce very well so you can take considrition for them .
+
+ 2-Draw orginized framwork with information that you need on every page .
+
+ 3- Design Website using style, color and size consider the information importance .
+
+4- You can use grouping and similarity to help simplify the information you present 
+
+# HTML5 Layout 
+
+### Header 
+ Apper on top every page on website 
+
+### Footer 
+Apper on bottom every page on website
  
+### Article Or Body 
+
+container for any section of a page that ould stand alone and potentially be syndicated.
