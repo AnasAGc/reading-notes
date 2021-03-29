@@ -15,6 +15,6 @@ Assiment     |      Links    |
    Read03    | [Read03](Read03.md)
    Read04    | [Read04](Read04.md)
 |  Read05    | [Read05](Read05.md) 
-             
+|  Read06    | [Read06](Read06.md) 
              
             
